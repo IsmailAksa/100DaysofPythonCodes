@@ -1,2 +1,2 @@
 # 100DaysofPythonCodes
-#Python Code Challange
+# Python Code hallenge from Zero to Hero
